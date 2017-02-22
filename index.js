@@ -9,7 +9,7 @@ var S = require('string');
  * @param {String} operator
  * @returns {function()}
  */
-const create = ({type, operator}) => {
+const create = (type, operator) => {
   const
     supportedTypes = ['number', 'date', 'boolean', 'string'],
     supportedOperators = {
