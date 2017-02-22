@@ -20,3 +20,5 @@ Node-comparison takes arguments written in JSON friendly format as input. Argume
 
 [string.js](http://stringjs.com/)
 [moment.js](http://momentjs.com/docs/#/query/is-same/)
+
+#### Usage

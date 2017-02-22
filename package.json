@@ -4,7 +4,7 @@
   "description": "The lightweight tool for compare any type of arguments with keyword.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "make test"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,12 @@
     "comparison"
   ],
   "author": "TanKhuu",
-  "license": "MIT",
+  "license": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/jackiekhuu-work/node_comparison/issues"
   },
